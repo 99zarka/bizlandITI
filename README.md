@@ -23,6 +23,8 @@ BizLand is a modern, responsive web application designed for businesses and port
 
 ## Getting Started
 
+You can view the live demo of this project here: [BizLand Live Demo](https://99zarka.github.io/bizlandITI/)
+
 To view this project locally, simply open the `index.html` file in your web browser.
 
 ```bash
